@@ -1,0 +1,9 @@
+*.tsv
+*.txt
+
+!chessboard.txt
+!loops.txt
+!toulouse.txt
+!ttr-asia.txt
+!ttr-usa.txt
+!zodiac.txt
